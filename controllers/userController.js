@@ -64,5 +64,5 @@ module.exports = {
       res.status(500).json({ error: 'Unable to delete user' });
     }
   },
-  // Add methods for updating and deleting users as needed
+  
 };
